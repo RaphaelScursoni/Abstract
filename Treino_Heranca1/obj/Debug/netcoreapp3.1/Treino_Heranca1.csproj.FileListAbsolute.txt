@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\bin\Debug\netcoreapp3.1\Treino_Heranca1.exe
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\bin\Debug\netcoreapp3.1\Treino_Heranca1.deps.json
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\bin\Debug\netcoreapp3.1\Treino_Heranca1.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\bin\Debug\netcoreapp3.1\Treino_Heranca1.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\bin\Debug\netcoreapp3.1\Treino_Heranca1.dll
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\bin\Debug\netcoreapp3.1\Treino_Heranca1.pdb
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.dll
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.pdb
+C:\Users\convencaoinfo10\source\repos\Treino_Heranca1\Treino_Heranca1\obj\Debug\netcoreapp3.1\Treino_Heranca1.genruntimeconfig.cache
